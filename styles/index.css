@@ -53,6 +53,31 @@ h2 {
   font-size: 0.9375em;
 }
 
+.reviews {
+  margin-top: 3em;
+}
+
+.review-cont {
+  background-color: hsl(300, 43%, 22%);
+  color: white;
+  text-align: left;
+  padding: 3em 2em 1em 2em;
+  margin: 0 auto 1em auto;
+  border-radius: 10px;
+  width: 76%;
+}
+
+.review-cont > p {
+  font-size: 0.9em;
+  line-height: 1.75em;
+}
+
+.profile-pic {
+  width: 2.75em;
+  height: 2.75em;
+  border-radius: 50%;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
